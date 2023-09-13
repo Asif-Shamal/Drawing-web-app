@@ -8,3 +8,16 @@ html {
     font-family: sans-serif;
     font-size: 62.5%;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    outline: 3px solid #087f5b;
+}
+
